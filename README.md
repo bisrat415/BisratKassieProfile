@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media0.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.gif?cid=ecf05e47jr0t139gir82nfp1t0ltwsommy856zk3343e4f9k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="65"></h1>
+<h1 align="center"><img src="https://media0.giphy.com/media/oOylMv2oLDxcxGzYn6/giphy.gif?cid=ecf05e47jr0t139gir82nfp1t0ltwsommy856zk3343e4f9k&ep=v1_stickers_search&rid=giphy.gif&ct=s"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=0&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=Hi+there!+Welcome+to+my+GitHub!;+I'm+Bisrat%2C+and+I'm+a+Computer+Science+Major+at+Brandeis+University;+I'm+highly+driven+by+the+prospect+of+working+in+a+team;+to+develp+software+with+real-world+applications.;+I+believe+that+the+best+solutions+come+from+collaboration;+and+the+exchange+of+diverse+perspectives+can+lead+to+truly+innovative+results." alt="Typing SVG" /></a>
 </p>
