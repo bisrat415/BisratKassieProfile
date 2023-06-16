@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=0&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=Hi+there!+Welcome+to+my+GitHub!;+I'm+Bisrat%2C+and+I'm+a+Computer+Science+Major+at+Brandeis+University;+I'm+highly+driven+by+the+prospect+of+working+in+a+team;+to+develp+software+with+real-world+applications.;+I+believe+that+the+best+solutions+come+from+collaboration;+and+that+the+exchange+of+ideas+and+perspectives+can+lead+to+truly+innovative+results." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=0&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=Hi+there!+Welcome+to+my+GitHub!;+I'm+Bisrat%2C+and+I'm+a+Computer+Science+Major+at+Brandeis+University;+I'm+highly+driven+by+the+prospect+of+working+in+a+team;+to+develp+software+with+real-world+applications.;+I+believe+that+the+best+solutions+come+from+collaboration;+and+the+exchange+of+diverse+perspectives+can+lead+to+truly+innovative+results." alt="Typing SVG" /></a>
 </p>
 </p>
 </p>
