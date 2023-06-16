@@ -42,7 +42,7 @@
     <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bisrat415&repo=MusicBliss-Store&show_owner=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/ClipperShipDataAnalysis/clipper-ship-data-analysis">
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bisrat415&repo=clipper-ship-data-analysis&show_owner=true&theme=github_dark"/>
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ClipperShipDataAnalysis&repo=clipper-ship-data-analysis&show_owner=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/bisrat415/QuantClubProject">
       <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bisrat415&repo=QuantClubProject&show_owner=true&theme=github_dark"/>
